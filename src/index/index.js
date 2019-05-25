@@ -3,50 +3,42 @@ import { Gallery } from './scripts/Gallery';
 
 const galleryData = [
    {
-      image: 'https://i.postimg.cc/9XgbWQfS/silvana-carlos-1620879-unsplash.jpg',
-      title: 'jelly-o brownie sweet',
+      title: 'Corrales, United States',
       class: ''
 
    },
    {
-      image: 'https://i.postimg.cc/9XgbWQfS/silvana-carlos-1620879-unsplash.jpg',
-      title: 'jel',
+      title: 'Corrales, United States My Australian Cattle Dog, Quigley, sitting up on the couch on the back porch.',
       class: 'item__large'
 
    },
    {
-      image: 'https://i.postimg.cc/9XgbWQfS/silvana-carlos-1620879-unsplash.jpg',
-      title: 'jelly-o brownie sweet',
+      title: 'Amsterdam, Netherlands He is Miles',
       class: 'item__medium'
 
    },
    {
-      image: 'https://i.postimg.cc/9XgbWQfS/silvana-carlos-1620879-unsplash.jpg',
-      title: 'jelly-o brownie sweet',
+      title: '1221 Monterey Rd, South Pasadena, United States',
       class: 'item__medium'
 
    },
    {
-      image: 'https://i.postimg.cc/9XgbWQfS/silvana-carlos-1620879-unsplash.jpg',
-      title: 'jelly-o brownie sweet',
+      title: 'Lima Region, Peru La mirada hacia el futuro',
       class: 'item__medium'
 
    },
    {
-      image: 'https://i.postimg.cc/9XgbWQfS/silvana-carlos-1620879-unsplash.jpg',
-      title: 'jelly-o brownie sweet',
+      title: 'Corrales, United States',
       class: 'item__medium'
 
    },
    {
-      image: 'https://i.postimg.cc/9XgbWQfS/silvana-carlos-1620879-unsplash.jpg',
-      title: 'jelly-o brownie sweet',
+      title: 'Corrales, United States',
       class: 'item__medium'
 
    },
    {
-      image: 'https://i.postimg.cc/9XgbWQfS/silvana-carlos-1620879-unsplash.jpg',
-      title: 'jelly-o brownie sweet',
+      title: 'Corrales, United States',
       class: ''
 
    },

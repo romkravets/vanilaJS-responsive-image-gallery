@@ -8,7 +8,7 @@ export class Gallery {
       this.grid;
       this.render();
    }
-   
+
    render() {
       this.sectionGrid = document.createElement('section');
       this.sectionGrid.classList.add('section');
@@ -19,11 +19,11 @@ export class Gallery {
 
       this.galleryData.forEach(element => {
          const data = `
-         <div class="item ${element.class}">
+         <a class="item ${element.class}" href="#">
             <div class="item__details">
             ${element.title}
             </div>
-         </div>
+         </a>
          `
          this.grid.innerHTML += data;
       });
